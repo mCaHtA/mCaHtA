@@ -2,7 +2,7 @@
 <br />
 ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0height=200&section=header&text=mCaHtA&animation=blink&fontSize=90&stroke=00FF00&descAlign=50&fontAlignY=75&theme=merko)
 <br />
-![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0height=200&section=header&text=抹茶&animation=blink&fontSize=75&stroke=00FF00&descAlign=50&fontAlignY=40&theme=merko)
+![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0height=200&section=header&text=抹茶&animation=blink&fontSize=60&stroke=00FF00&descAlign=50&fontAlignY=30&theme=merko)
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko)
 <br />
