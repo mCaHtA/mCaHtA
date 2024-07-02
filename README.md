@@ -1,9 +1,9 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0height=200&section=header&text=mCaHtA&animation=blink&fontSize=90&stroke=00FF00&descAlign=50&fontAlignY=50&theme=merko)
 <br />
-<a href="https://www.instagram.com/cha_tmdgus/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/@cha_tmdgus-#ff1255?style=social&logo=instagram&logoColor=#ffffff"/></a>
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko)
+<br />
+<a href="https://www.instagram.com/cha_tmdgus/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/@cha_tmdgus-#ff1255?style=social&logo=instagram&logoColor=#ffffff"/></a>
 
 <!--
 **mCaHtA/mCaHtA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
