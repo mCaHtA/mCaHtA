@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://www.instagram.com/cha_tmdgus/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/@cha_tmdgus-#ff1255?style=social&logo=https://simpleicons.org/icons/instagram.svg&logoColor=#ffffff"/></a>
+<a href="https://www.instagram.com/cha_tmdgus/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/@cha_tmdgus-#ff1255?style=social&logo=instagram.svg&logoColor=#ffffff"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko)
