@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=merko)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:446921,50:004a05,100:216940)
 <br />
 ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0height=200&section=header&text=mCaHtA&animation=blink&fontSize=90&stroke=00FF00&descAlign=50&fontAlignY=50&theme=merko)
 <br />
