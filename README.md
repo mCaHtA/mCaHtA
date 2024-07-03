@@ -30,7 +30,7 @@
 
   <!-- graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mCaHtA&theme=merko&bg_color=002405&hide_border=true&line=b1fc6a&color=8aff1c" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mCaHtA&bg_color=002405&hide_border=true&line=b1fc6a&color=8aff1c" width=94%/>
   </a>
 
 </div>
