@@ -20,17 +20,17 @@
 
   <!-- mostLanguages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mCaHtA&layout=donut&show_icons=true&theme=merko&hide_border=true&bg_color=002405&icon_color=00a317&text_color=f2ffe6&title_color=8aff1c&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mCaHtA&layout=donut&show_icons=true&theme=merko&hide_border=true&bg_color=011200&icon_color=00a317&text_color=f2ffe6&title_color=8aff1c&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>
   
   <!-- stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko&hide_border=true&bg_color=002405&icon_color=8aff1c&text_color=f2ffe6&title_color=8aff1c&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko&hide_border=true&bg_color=011200&icon_color=8aff1c&text_color=f2ffe6&title_color=8aff1c&count_private=true" width=56% />
   </a>
 
   <!-- graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mCaHtA&bg_color=002405&hide_border=true&line=b1fc6a&color=8aff1c" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mCaHtA&bg_color=011200&hide_border=true&line=b1fc6a&color=8aff1c" width=94%/>
   </a>
 
 </div>
