@@ -8,7 +8,10 @@
   <br />
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko)
   <br />
-  ![snake gif](https://github.com/mCaHtA/mCaHtA/blob/output/github-contribution-grid-snake.svg)
+      <a href="https://github.com/mCaHtA/github-readme-snake">
+      <img src="https://github.com/mCaHtA/mCaHtA/blob/output/github-snake.svg" width="94%">
+      <br>
+    </a>
   <br />
   <a href="https://github.com/mCaHtA" target="_blank"><img src="https://img.shields.io/badge/mCaHtA-181717?style=flat&logo=github&logoColor=ffffff"/></a>
   <a href="https://www.instagram.com/cha_tmdgus/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/cha__tmdgus-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
