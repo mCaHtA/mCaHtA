@@ -7,7 +7,7 @@
   
   <!-- userName -->
   
-  ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0&height=100&section=header&text=CHA SEUNGHYUN&animation=blink&fontSize=90&stroke=00FF00&descAlign=50&fontAlignY=75&theme=merko)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0&height=100&section=header&text=CHA&nbsp;SEUNGHYUN&animation=blink&fontSize=90&stroke=00FF00&descAlign=50&fontAlignY=75&theme=merko)
   <br />
   ![header](https://capsule-render.vercel.app/api?type=transparent&&color=gradient&&customColorList=10,0&height=150&section=header&text=車昇炫&animation=blink&fontSize=60&stroke=00FF00&descAlign=50&fontAlignY=25&theme=merko)
   
