@@ -19,12 +19,12 @@
 <div align="center">
 
   <!-- mostLanguages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/mCaHtA">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mCaHtA&layout=donut&show_icons=true&theme=merko&hide_border=true&bg_color=011200&icon_color=00a317&text_color=f2ffe6&title_color=8aff1c&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>
   
   <!-- stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/mCaHtA">
     <img src="https://github-readme-stats.vercel.app/api?username=mCaHtA&show_icons=true&theme=merko&hide_border=true&bg_color=011200&icon_color=8aff1c&text_color=f2ffe6&title_color=8aff1c&count_private=true" width=56% />
   </a>
 
